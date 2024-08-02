@@ -2,7 +2,7 @@
 // Released to the public   domain in 2022 by Earle F. Philhower, III
 #include <WiFi.h>
 
-
+//V002
 /*------------------------------------------------------------------------------
 	Serial_USB		USB CDC = VCP (for Debug)
 
